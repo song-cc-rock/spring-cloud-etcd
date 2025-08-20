@@ -53,12 +53,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- 自动装配 -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-autoconfigure</artifactId>
-        </dependency>
-
         <!-- 自动装配处理器 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
